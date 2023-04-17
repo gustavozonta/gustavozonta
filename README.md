@@ -9,8 +9,8 @@
 
 ## About Me!
 
-  Currently studying towards Fullstack Development. Strong cultural awareness, multilingual skills and a global mindset gained through a unique mix of international experience. True digital native, receptive to new and emerging trends and technologies in front-end development.
-
+I am currently pursuing Fullstack Development and have developed a strong cultural awareness through a diverse range of international experiences. With my multilingual skills and global mindset, I am equipped to work with people from all over the world. As a true digital native, I am always receptive to the latest trends and emerging technologies in front-end development, and am excited to use my skills to build innovative and user-friendly digital experiences.
+  
 <br>
 
 ## Programming Languages
