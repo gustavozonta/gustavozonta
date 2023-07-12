@@ -1,13 +1,13 @@
 
 
 
-<h1 align="left">Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Nice to meet you! I am Gustavo Zonta </h1>
+<h1 align="left">Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Nice to meet you! I am Gustavo Paseto Zonta. </h1>
 
-- 👨‍💻 Frontend Developer/ ServiceNow Developer **JavaScript, HTML, CSS, Node.JS, Git**
+- 👨‍💻 Frontend Developer/ ServiceNow Developer **JavaScript, HTML, CSS, Node.JS, Git.**
 - 🇬🇧 Living in London - Open for work remotely.
 
 
-## About Me!
+## About Me
 
 I am currently pursuing Fullstack Development with a focus on ServiceNow. I have a strong understanding of ITIL4 principles and experience working with agile methodologies. With my diverse international experiences, I have developed cultural awareness and effective communication skills. As a digital native, I stay updated with the latest trends in front-end development. I am excited to leverage my skills in ServiceNow, ITIL4, and agile methodologies to create user-friendly and innovative digital experiences.
   
