@@ -3,7 +3,7 @@
 
 <h1 align="left">Hey! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Nice to meet you! I am Gustavo Paseto Zonta. </h1>
 
-- 👨‍💻 Frontend Developer/ ServiceNow Developer **JavaScript, HTML, CSS, Node.JS, Git.**
+- 👨‍💻 Frontend Developer **JavaScript, HTML, CSS, Node.JS, Git.**
 - 🇬🇧 Living in London - Open for work remotely.
 
 
