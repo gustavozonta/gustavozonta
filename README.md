@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am currently pursuing Fullstack Development with a focus on ServiceNow. I have a strong understanding of ITIL4 principles and experience working with agile methodologies. With my diverse international experiences, I have developed cultural awareness and effective communication skills. As a digital native, I stay updated with the latest trends in front-end development. I am excited to leverage my skills in ServiceNow, ITIL4, and agile methodologies to create user-friendly and innovative digital experiences.
+I am deeply engrossed in the realm of Fullstack Development, channeling my efforts towards mastering its intricate nuances. My comprehension of ITIL4 principles stands on a solid foundation, further enriched by my hands-on involvement with agile methodologies. My journey through diverse international landscapes has endowed me with a heightened cultural acumen and impeccable communication finesse. Being a digital native, I effortlessly keep my finger on the pulse of the latest trends in front-end development. The prospect of melding my adeptness in ITIL4 and agile methodologies fuels my eagerness to engineer digital experiences that seamlessly intertwine user-friendliness with groundbreaking innovation.
   
 <br>
 
